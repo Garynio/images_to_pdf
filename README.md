@@ -1,2 +1,2 @@
 # images_to_pdf
-Create a PDF file for each image within the subfolders of the designated folder A, naming it after the name of the subfolder, and store it in the designated folder B.
+Create a PDF file containing all images in the subfolders within Folder A, name the PDF file after each subfolder, and save it to the specified Folder B.
